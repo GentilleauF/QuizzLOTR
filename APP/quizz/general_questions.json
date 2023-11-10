@@ -1,0 +1,103 @@
+[
+      {
+        "question": "Qui est le créateur de l'Anneau Unique ?",
+        "answers": [
+          { "text": "Elrond", "correct": false },
+          { "text": "Cirdan", "correct": false },
+          { "text": "Sauron", "correct": true },
+          { "text": "Celebrimbor", "correct": false }
+        ]
+      },
+      {
+        "question": "Quelle est la capitale du Rohan ?",
+        "answers": [
+          { "text": "Minas Tirith", "correct": false },
+          { "text": "Rivendell", "correct": false },
+          { "text": "Edoras", "correct": true },
+          { "text": "Isengard", "correct": false }
+        ]
+      },
+      {
+        "question": "Quel hobbit est également connu sous le nom de Sacquet ?",
+        "answers": [
+          { "text": "Sam", "correct": false },
+          { "text": "Merry ", "correct": false },
+          { "text": "Frodon", "correct": true },
+          { "text": "Pippin", "correct": false }
+        ]
+      },
+      {
+        "question": "Qui est le roi du Gondor lors de la Bataille du Gouffre de Helm ?",
+        "answers": [
+          { "text": "Aragorn", "correct": false },
+          { "text": "Denethor", "correct": true },
+          { "text": "Théoden", "correct": false },
+          { "text": "Boromir", "correct": false }
+        ]
+      },
+      {
+        "question": "Quel dragon est tué par Bard l'Archer à la fin du Hobbit ?",
+        "answers": [
+          { "text": "Smaug", "correct": true },
+          { "text": "Ancalagon", "correct": false },
+          { "text": "Glaurung", "correct": false },
+          { "text": "Scatha", "correct": false }
+        ]
+      },
+      {
+        "question": "Quel est le nom du cheval d'Arwen dans le Seigneur des Anneaux ?",
+        "answers": [
+          { "text": "Shadowfax", "correct": false },
+          { "text": "Arod", "correct": false },
+          { "text": "Brego", "correct": false },
+          { "text": "Asfaloth", "correct": true }
+        ]
+      },
+      {
+        "question": "Comment Frodo est-il blessé à la fin de la Communauté de l'Anneau ?",
+        "answers": [
+          { "text": "Par un Nazgûl", "correct": true },
+          { "text": "Par un orc", "correct": false },
+          { "text": "Par Gollum", "correct": false },
+          { "text": "Par une flèche de Boromir", "correct": false }
+        ]
+      },
+      {
+        "question": "Qui est le père de Legolas ?",
+        "answers": [
+          { "text": "Celeborn", "correct": false },
+          { "text": "Elrond", "correct": false },
+          { "text": "Thranduil", "correct": true },
+          { "text": "Galadriel", "correct": false }
+        ]
+      },
+      {
+        "question": "Quel lieu est aussi connu sous le nom de Cité Blanche dans le Seigneur des Anneaux ?",
+        "answers": [
+          { "text": "Minas Morgul", "correct": false },
+          { "text": "Minas Tirith", "correct": true },
+          { "text": "Edoras", "correct": false },
+          { "text": "Lothlórien", "correct": false }
+        ]
+      },
+      {
+        "question": "Quelle est la couleur de la cape de Tom Bombadil ?",
+        "answers": [
+          { "text": "Vert", "correct": false },
+          { "text": "Bleu", "correct": false },
+          { "text": "Jaune", "correct": false },
+          { "text": "Bleu et argent", "correct": true }
+        ]
+      },
+      {
+        "question": "Quel personnage est également appelé le Seigneur des Chevaux ?",
+        "answers": [
+          { "text": "Théoden", "correct": false },
+          { "text": "Éomer", "correct": true },
+          { "text": "Éowyn", "correct": false },
+          { "text": "Gimli", "correct": false }
+        ]
+      }
+    
+  ]
+  

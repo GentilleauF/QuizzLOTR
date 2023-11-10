@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Quel est le nom de la capitale du Rohan ?",
+        "answers": [
+            {"text": "Edoras", "correct": true},
+            {"text": "Minas Tirith", "correct": false},
+            {"text": "Rivendell", "correct": false},
+            {"text": "Isengard", "correct": false}
+        ]
+    },
+    {
+        "question": "Qui est le roi du Rohan pendant la Guerre de l'Anneau ?",
+        "answers": [
+            {"text": "Théoden", "correct": true},
+            {"text": "Éomer", "correct": false},
+            {"text": "Aragorn", "correct": false},
+            {"text": "Denethor", "correct": false}
+        ]
+    },
+    {
+        "question": "Quel est le nom du cheval de Théoden, le roi du Rohan ?",
+        "answers": [
+            {"text": "Shadowfax", "correct": false},
+            {"text": "Firefoot", "correct": false},
+            {"text": "Snowmane", "correct": true},
+            {"text": "Arod", "correct": false}
+        ]
+    },
+    {
+        "question": "Quel royaume voisin du Rohan est dirigé par Éomer, le neveu du roi Théoden ?",
+        "answers": [
+            {"text": "Gondor", "correct": false},
+            {"text": "Rivendell", "correct": false},
+            {"text": "Lothlórien", "correct": false},
+            {"text": "Rohan n'a pas de royaume voisin dirigé par Éomer", "correct": true}
+        ]
+    },
+    {
+        "question": "Quel est le nom du forteresse où les Rohirrim se réfugient pendant la Bataille du Gouffre de Helm ?",
+        "answers": [
+            {"text": "Minas Tirith", "correct": false},
+            {"text": "Orthanc", "correct": false},
+            {"text": "Helms' Deep", "correct": true},
+            {"text": "Barad-dûr", "correct": false}
+        ]
+    },
+    {
+        "question": "Quelle est la principale menace pour le Rohan pendant la guerre de l'Anneau ?",
+        "answers": [
+            {"text": "Les Nazgûls", "correct": false},
+            {"text": "Les Uruk-hai", "correct": true},
+            {"text": "Les Orques", "correct": false},
+            {"text": "Les Gobelins", "correct": false}
+        ]
+    },
+    {
+        "question": "Qui est le fils de Théoden, prince du Rohan, qui meurt lors de la Bataille du Gouffre de Helm ?",
+        "answers": [
+            {"text": "Éomer", "correct": false},
+            {"text": "Éowyn", "correct": false},
+            {"text": "Théodred", "correct": true},
+            {"text": "Faramir", "correct": false}
+        ]
+    },
+    {
+        "question": "Quelle est la plaine où se déroule la Bataille du Gouffre de Helm ?",
+        "answers": [
+            {"text": "Pelennor Fields", "correct": false},
+            {"text": "Mirkwood", "correct": false},
+            {"text": "Rohan Fields", "correct": false},
+            {"text": "Rohirrim Fields", "correct": true}
+        ]
+    },
+    {
+        "question": "Quel personnage du Rohan est ami avec Gandalf et participe à la Bataille du Gouffre de Helm ?",
+        "answers": [
+            {"text": "Éowyn", "correct": false},
+            {"text": "Éomer", "correct": true},
+            {"text": "Théoden", "correct": false},
+            {"text": "Théodred", "correct": false}
+        ]
+    },
+    {
+        "question": "Quel est le nom du fleuve qui traverse le Rohan ?",
+        "answers": [
+            {"text": "Anduin", "correct": false},
+            {"text": "Bruinen", "correct": false},
+            {"text": "Entwash", "correct": true},
+            {"text": "Lhûn", "correct": false}
+        ]
+    }
+]

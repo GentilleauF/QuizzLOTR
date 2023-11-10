@@ -1,0 +1,92 @@
+[
+    {
+        "question": "Qui est le roi du Gondor à la fin du Retour du Roi ?",
+        "answers": [
+            {"text": "Aragorn", "correct": true},
+            {"text": "Denethor", "correct": false},
+            {"text": "Faramir", "correct": false},
+            {"text": "Théoden", "correct": false}
+        ]
+    },
+    {
+        "question": "Quel personnage du Gondor utilise un palantír et devient mentalement corrompu ?",
+        "answers": [
+            {"text": "Aragorn", "correct": false},
+            {"text": "Faramir", "correct": false},
+            {"text": "Denethor", "correct": true},
+            {"text": "Boromir", "correct": false}
+        ]
+    },
+    {
+        "question": "Quelle est la capitale du Gondor ?",
+        "answers": [
+            {"text": "Minas Tirith", "correct": true},
+            {"text": "Minas Morgul", "correct": false},
+            {"text": "Osgiliath", "correct": false},
+            {"text": "Dol Amroth", "correct": false}
+        ]
+    },
+    {
+        "question": "Qui est le père de Boromir et Faramir ?",
+        "answers": [
+            {"text": "Aragorn", "correct": false},
+            {"text": "Denethor", "correct": true},
+            {"text": "Théoden", "correct": false},
+            {"text": "Éomer", "correct": false}
+        ]
+    },
+    {
+        "question": "Quel royaume voisin du Gondor est dirigé par Imrahil ?",
+        "answers": [
+            {"text": "Rohan", "correct": false},
+            {"text": "Lothlórien", "correct": false},
+            {"text": "Dol Amroth", "correct": true},
+            {"text": "Erebor", "correct": false}
+        ]
+    },
+    {
+        "question": "Qui est le capitaine du Gondor chargé de défendre Osgiliath contre les forces de Sauron ?",
+        "answers": [
+            {"text": "Faramir", "correct": false},
+            {"text": "Boromir", "correct": false},
+            {"text": "Denethor", "correct": false},
+            {"text": "Gandalf", "correct": true}
+        ]
+    },
+    {
+        "question": "Quel Gondorien devient le Steward du Gondor après la mort de Denethor ?",
+        "answers": [
+            {"text": "Aragorn", "correct": false},
+            {"text": "Boromir", "correct": false},
+            {"text": "Faramir", "correct": true},
+            {"text": "Théoden", "correct": false}
+        ]
+    },
+    {
+        "question": "Quel groupe de soldats défend le Gondor lors de la Bataille du Pelennor Fields ?",
+        "answers": [
+            {"text": "Rohirrim", "correct": false},
+            {"text": "Elendil's Sons", "correct": false},
+            {"text": "Gondor's Shield", "correct": false},
+            {"text": "Fountain Guards", "correct": true}
+        ]
+    },
+    {
+        "question": "Quel Gondorien est membre de la Communauté de l'Anneau ?",
+        "answers": [
+            {"text": "Boromir", "correct": true},
+            {"text": "Faramir", "correct": false},
+            {"text": "Denethor", "correct": false},
+            {"text": "Gandalf", "correct": false}
+        ]
+    },
+    {
+        "question": "Quel est le nom de la rivière qui traverse le Gondor et passe près de Minas Tirith ?",
+        "answers": [
+            {"text": "Anduin", "correct": true},
+            {"text": "Bruinen", "correct": false},
+            {"text": "Entwash", "correct": false},
+            {"text": "Lhûn", "correct": false}
+        ]
+    }
+]
